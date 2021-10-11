@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Learn RecyclerViews</string>
+    <string name="activity_main_xml">activity_main.xml</string>
+    <string name="main_activity_java">MainActivity.java</string>
+    <string name="activity_detail_xml">activity_detail.xml</string>
+    <string name="detail_activity_java">DetailActivity.java</string>
+    <string name="card_caption_image_xml">card_action_image.xml</string>
+    <string name="captioned_images_adapter_java">CaptionedImagesAdapter.java</string>
+    <string name="its_code_java">ItsCode.java</string>
+    <string name="strings_xml">strings.xml</string>
+</resources>
+
